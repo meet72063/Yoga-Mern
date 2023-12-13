@@ -12,6 +12,11 @@ export default {
         border: "#CBD5E0", // Light Grey (for borders and dividers)
         heroHeading: "#2D3748",
       },
+      fontFamily: {
+        Nunito: ["Nunito", "sans-serif"],
+        Heebo: ["Heebo", "sans-serif"],
+        dancing: ["Dancing Script", "cursive"],
+      },
     },
   },
   plugins: [],
